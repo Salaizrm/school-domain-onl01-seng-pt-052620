@@ -4,6 +4,7 @@ class School
 
   def initialize(student)
     @student = student
+    @roster = []
   end
 
 end
